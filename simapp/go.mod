@@ -1,6 +1,6 @@
 module cosmossdk.io/simapp
 
-go 1.19
+go 1.22
 
 require (
 	cosmossdk.io/api v0.2.6
@@ -20,7 +20,7 @@ require (
 	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
 	github.com/tendermint/tendermint v0.37.0-rc2
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.36.6
 )
 
 require (
